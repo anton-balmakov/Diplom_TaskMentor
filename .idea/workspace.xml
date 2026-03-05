@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d13756d8-fb02-434b-bfba-8b1f2ce19e38" name="Changes" comment="commit_9_ThatAll+1">
+    <list default="true" id="d13756d8-fb02-434b-bfba-8b1f2ce19e38" name="Changes" comment="commit_9_ThatAll+3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskMentor/Mentor/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TaskMentor/Mentor/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskMentor/Mentor/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/TaskMentor/Mentor/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TaskMentor/static/js/push.js" beforeDir="false" afterPath="$PROJECT_DIR$/TaskMentor/static/js/push.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -305,7 +302,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771486778713</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="commit_9_ThatAll+2">
+      <option name="closed" value="true" />
+      <created>1771493758849</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1771493758849</updated>
+    </task>
+    <task id="LOCAL-00028" summary="commit_9_ThatAll+3">
+      <option name="closed" value="true" />
+      <created>1771493902126</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1771493902126</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -320,8 +333,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initial Django project setup for TaskMentor" />
-    <MESSAGE value="commit_1" />
     <MESSAGE value="commit_2" />
     <MESSAGE value="commit_3" />
     <MESSAGE value="commit_4" />
@@ -345,6 +356,8 @@
     <MESSAGE value="commit_9_ThatAll" />
     <MESSAGE value="commit_9_ThatAll+" />
     <MESSAGE value="commit_9_ThatAll+1" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit_9_ThatAll+1" />
+    <MESSAGE value="commit_9_ThatAll+2" />
+    <MESSAGE value="commit_9_ThatAll+3" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit_9_ThatAll+3" />
   </component>
 </project>
